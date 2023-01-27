@@ -35,7 +35,7 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Me
           </h2>
-          <h2 className="title-font py-5 font-semibold text-white tracking-widest text-xs">
+          <h2 className="title-font pt-5 font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
