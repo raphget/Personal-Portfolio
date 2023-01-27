@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "CUSTOMER LOYALTY PROGRAM",
-    subtitle: "JAVA; JSP/Servlets; JDBC; Oracle PL/SQL; Java Swing",
+    subtitle: "JDBC; Oracle PL/SQL; Java Swing",
     description:
       "Created a Java Swing application to maintain the database system for a grocery store customer loyalty program. Relies on JDBC to access and manipulate an Oracle database (RDBMS). The Swing UI allows the user to add customers to the loyalty program as well as query customers, transactions, products, branches, and other relevant information.",
     image: "./project-2.gif",
@@ -26,6 +26,7 @@ export const skills = [
   "HTML/CSS",
   "SQL",
   "MongoDB",
-  "Linux/Unix",
-  "VSCode, Eclipse, IntelliJ",
+  "Linux/Unix/Windows",
+  "VSCode, Eclipse, IntelliJ, NetBeans",
+  "GIT",
 ];
