@@ -43,7 +43,7 @@ export default function Contact() {
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <a className="text-white-400 leading-relaxed">
                 dev.raphget@email.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
