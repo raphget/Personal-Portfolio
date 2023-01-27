@@ -31,7 +31,7 @@ export default function Contact() {
           netlify
           name="test"
           onSubmit={handleSubmit}
-          className="lg:w-fit md:w-fit flex">
+          className="lg:w-fit md:w-fit flex flex-col md:ml-auto w-full">
           <h1 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Me
           </h1>
