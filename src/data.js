@@ -41,7 +41,7 @@ export const skills = [
   "JavaScript",
   "HTML/CSS",
   "SQL",
-  "GIT",
-  
-  
+  "MongoDB",
+  "Linux/Unix",
+  "VSCode, Eclipse, IntelliJ",
 ];
