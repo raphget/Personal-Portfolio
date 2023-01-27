@@ -26,7 +26,7 @@ export default function Contact() {
 
   return (
     <section id="contact" className="relative">
-      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap w-full">
+      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap w-full self-center">
         <form
           netlify
           name="test"
@@ -38,7 +38,7 @@ export default function Contact() {
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-white-400 leading-relaxed">
+              <a className="text-purple-400 leading-relaxed">
                 dev.raphget@email.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
