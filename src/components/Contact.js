@@ -45,6 +45,8 @@ export default function Contact() {
                 PHONE
               </h2>
               <p className="leading-relaxed">804-517-7150</p>
+
+{/*           
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
               Name
@@ -87,8 +89,9 @@ export default function Contact() {
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit
           </button>
+          */}
         </form>
-      </div>
+      </div> 
     </section>
   );
 }
