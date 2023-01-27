@@ -1,34 +1,18 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "KNN SENTIMENT ANALYSIS",
+    subtitle: "Python; Sklearn; NLTK",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Implemented a k-Nearest Neighbor Classifier to predict the sentiment for various amazon reviews and used cross-validation resampling to test and train the model on different iterations.",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "CUSTOMER LOYALTY PROGRAM",
+    subtitle: "JAVA; JSP/Servlets; JDBC; Oracle PL/SQL; Java Swing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Created a Java Swing application to maintain the database system for a grocery store customer loyalty program. Relies on JDBC to access and manipulate an Oracle database (RDBMS). The Swing UI allows the user to add customers to the loyalty program as well as query customers, transactions, products, branches, and other relevant information.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
 ];
