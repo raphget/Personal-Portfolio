@@ -32,9 +32,9 @@ export default function Contact() {
           name="test"
           onSubmit={handleSubmit}
           className="lg:w-fit md:w-fit flex flex-col md:ml-auto w-full">
-          <h1 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Me
-          </h1>
+          </h2>
           <h2 className="title-font py-5 font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
