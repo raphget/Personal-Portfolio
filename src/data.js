@@ -11,8 +11,8 @@ export const projects = [
     title: "CUSTOMER LOYALTY PROGRAM",
     subtitle: "JDBC; Oracle PL/SQL; Java Swing",
     description:
-      "Created a Java Swing application to maintain the database system for a grocery store customer loyalty program. Relies on JDBC to access and manipulate an Oracle database (RDBMS). The Swing UI allows the user to add customers to the loyalty program as well as query customers, transactions, products, branches, and other relevant information.",
-    image: "./project-2.gif",
+      "Created a Java Swing application to maintain the database system for a grocery store customer loyalty program. The Swing UI allows the user to view and manage data stored in an relational database.",
+    image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
 ];

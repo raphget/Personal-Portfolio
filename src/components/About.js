@@ -24,11 +24,13 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div class = "invert" className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div class = "invert" className="md:pl-16 lg:max-w-lg lg:w-full md:w-1/2 w-4/6">
           <img
             className="object-cover object-center rounded filter invert"
             alt="hero"
+            align="right"
             src="./binaryrain.svg"
+            
           />
         </div>
       </div>

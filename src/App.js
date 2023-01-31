@@ -4,15 +4,17 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <main className="text-gray-400 bg-gray-900 body-font" style={{ backgroundImage:`url(${"pexels-sky.jpg"})`}} class = "bg-cover" >
       <Navbar />
       <About />
       <Projects />
       <Skills />
       <Contact />
+      <Footer />
     </main>
   );
 }

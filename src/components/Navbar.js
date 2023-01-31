@@ -1,5 +1,5 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
+import { SocialIcon } from 'react-social-icons';
 
 export default function Navbar() {
   return (
@@ -11,19 +11,22 @@ export default function Navbar() {
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-          <a href="#projects" className="mr-5 hover:text-white">
+          <a href="#projects" className="text-gray-500 mr-5 hover:text-white">
             Projects
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
+          <a href="#skills" className="text-gray-500 mr-5 hover:text-white">
             Skills
           </a>
         </nav>
-        {/* <a
-          href="#contact"
-          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
-          Hire Me
-          <ArrowRightIcon className="w-4 h-4 ml-1" />
-        </a> */}
+        <a href="https://github.com/raphget?tab=repositories" className="text-gray-500 mr-5 hover:text-white">
+            <SocialIcon url="https://github.com/raphget?tab=repositories" bgColor="white" className="mr-2" style={{ height: 30, width: 30 }}/>
+            GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/raphael-getachew-284a0118b/" className="text-gray-500 mr-5 hover:text-white">
+            <SocialIcon url="https://www.linkedin.com/in/raphael-getachew-284a0118b/" className="mr-2" style={{ height: 30, width: 30 }}/>
+            LinkedIn
+
+        </a>
       </div>
     </header>
   );
