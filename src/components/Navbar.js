@@ -3,8 +3,8 @@ import { SocialIcon } from 'react-social-icons';
 
 export default function Navbar() {
   return (
-    <header className="bg-gray-800 md:sticky top-0 z-10">
-      <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+    <header className="font-ubuntu bg-gray-800 md:sticky top-0 z-10">
+      <div className="container hover:scale-110 transition duration-300 ease-in-out mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="" className="ml-3 text-xl">
             Raphael Getachew

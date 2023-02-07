@@ -4,7 +4,7 @@ export default function Contact() {
 
   return (
     <section id="contact" className="relative">
-      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
+      <div className="container font-ubuntu px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <form
           netlify
           name="test"
@@ -16,7 +16,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                dev.raphget@email.com
+                dev.raphget@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
