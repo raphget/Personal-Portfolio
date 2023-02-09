@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <section id="about">
-      <div className="container mx-auto flex px-20 py-24 md:flex-row flex-col items-center">
+      <div className="container mx-auto flex px-20 py-32 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 md:pl-12 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="font-ubuntu sm:text-4xl text-3xl mb-4  font-medium text-white">
             Hi, I'm Raphael.
@@ -23,7 +23,7 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div class = "invert" className="md:pl-16 lg:max-w-lg lg:w-full md:w-1/2 w-4/6">
+        <div class = "invert" className="md:pl-28 lg:max-w-lg lg:w-full md:w-1/2 w-4/6">
           <img
             className="object-cover object-center rounded filter invert"
             alt="hero"

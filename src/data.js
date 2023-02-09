@@ -4,8 +4,8 @@ export const projects = [
     subtitle: "Python; Sklearn; NLTK",
     description:
       "Implemented a k-Nearest Neighbor Classifier to predict the sentiment for various amazon reviews and used cross-validation resampling to test and train the model on different iterations.",
-    image: "./project-1.gif",
-    link: "#projects",
+    image: "./mapleappdemo.gif",
+    link: "https://github.com/raphget/MapleApp",
   },
   {
     title: "CUSTOMER LOYALTY PROGRAM",
@@ -18,12 +18,17 @@ export const projects = [
 ];
 
 
+
 export const skills = [
-  "Java (JSP/Servlets, Swing, SpringBoot, JDBC)",
-  "Python (Numpy, Pandas, Scikit/Sklearn, Tensorflow, Selenium)",
+  "Java (SpringBoot, JDBC, JSP/Servlets, Swing)",
+  "Python (Numpy, Scikit/Sklearn, Tensorflow, Selenium)",
   "JavaScript",
   "React",
   "C/C++",
+  "Machine Learning",
+  "UI/UX",
+  "CI/CD",
+  "AWS",
   "HTML/CSS",
   "SQL",
   "Linux/Unix/Windows",

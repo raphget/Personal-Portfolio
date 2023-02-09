@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font" style={{ backgroundImage:`url(${"pexels-sky.jpg"})`}} class = "bg-cover" >
+    <main className="text-gray-400 bg-gray-900 body-font" style={{ backgroundImage:`url(${"pexels-sky.jpg"})`}} class = "bg-cover bg-center" >
       <Navbar />
       <About />
       <Projects />
