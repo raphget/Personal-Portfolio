@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "KNN SENTIMENT ANALYSIS",
-    subtitle: "Python; Sklearn; NLTK",
+    title: "MAPLESTORY EXP WEBAPP",
+    subtitle: "React.js; Html/CSS; Java; SpringBoot; Maven",
     description:
-      "Implemented a k-Nearest Neighbor Classifier to predict the sentiment for various amazon reviews and used cross-validation resampling to test and train the model on different iterations.",
+      "Developed a REST API which calculates EXP requirements for MapleStory players using Java SpringBoot. This project also includes a front end developed using React.js and tailwind for design handling.",
     image: "./mapleappdemo.gif",
     link: "https://github.com/raphget/MapleApp",
   },
@@ -11,8 +11,8 @@ export const projects = [
     title: "CUSTOMER LOYALTY PROGRAM",
     subtitle: "JDBC; Oracle PL/SQL; Java Swing",
     description:
-      "Created a Java Swing application to maintain the database system for a grocery store customer loyalty program. The Swing UI allows the user to view and manage data stored in an relational database.",
-    image: "./project-3.gif",
+      "Created a Java Swing application to maintain the database system for a grocery store customer loyalty program. The Swing interface allows the user to view and manage data stored in a relational database.",
+    image: "./mapleappdemo.gif",
     link: "#projects",
   },
 ];
@@ -28,10 +28,8 @@ export const skills = [
   "Machine Learning",
   "UI/UX",
   "CI/CD",
-  "AWS",
   "HTML/CSS",
   "SQL",
   "Linux/Unix/Windows",
   "VSCode, Eclipse, IntelliJ, NetBeans",
-  "GIT",
 ];

@@ -22,8 +22,8 @@ export default function Navbar() {
             <SocialIcon url="https://github.com/raphget?tab=repositories" bgColor="white" className="mr-2" style={{ height: 30, width: 30 }}/>
             GitHub
         </a>
-        <a href="https://www.linkedin.com/in/raphael-getachew-284a0118b/" className="text-gray-500 mr-5 hover:text-white">
-            <SocialIcon url="https://www.linkedin.com/in/raphael-getachew-284a0118b/" className="mr-2" style={{ height: 30, width: 30 }}/>
+        <a href="https://www.linkedin.com/in/raphget/" className="text-gray-500 mr-5 hover:text-white">
+            <SocialIcon url="https://www.linkedin.com/in/raphget/" className="mr-2" style={{ height: 30, width: 30 }}/>
             LinkedIn
 
         </a>
