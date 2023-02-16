@@ -29,7 +29,7 @@ export const skills = [
   "UI/UX",
   "CI/CD",
   "HTML/CSS",
-  "SQL",
+  "MySQL",
   "Linux/Unix/Windows",
   "VSCode, Eclipse, IntelliJ, NetBeans",
 ];
