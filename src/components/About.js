@@ -12,7 +12,7 @@ export default function About() {
           <div className="font-ubuntu flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-indigo-600 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-900 rounded text-lg">
+              className="inline-flex text-white bg-indigo-400 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-900 rounded text-lg">
               Contact Info
             </a>
             <a
